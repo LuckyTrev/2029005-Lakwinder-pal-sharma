@@ -1,4 +1,4 @@
-# Write a Python program to create an array of 5 elements and display the array items Access each individual items through indexes
+# H2 1.Write a Python program to create an array of 5 elements and display the array items Access each individual items through indexes
 ```python
 import arrray as arr
 a= arr.array('d',[10,20,30,40])
@@ -11,7 +11,7 @@ print(a[3])
 ![Screenshot from 2021-04-29![Screenshot from 2021-06-05 21-07-01](https://user-images.githubusercontent.com/79211248/120897317-14435e80-c643-11eb-9932-349f3e023da6.png)
 
 
-# Write a Python Program to reverse the order of items in the array.
+# H2 2.Write a Python Program to reverse the order of items in the array.
 ```python
 import array as arr
 arr = arr.array
