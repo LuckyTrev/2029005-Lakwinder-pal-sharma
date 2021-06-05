@@ -8,7 +8,7 @@ print(a[2])
 print(a[3])
 ```
 
-![Screenshot from 2021-04-29![Screenshot from 2021-06-05 21-07-01](https://user-images.githubusercontent.com/79211248/120897317-14435e80-c643-11eb-9932-349f3e023da6.png)
+[](https://user-images.githubusercontent.com/79211248/120897317-14435e80-c643-11eb-9932-349f3e023da6.png)
 
 
 ## 2. Write a Python Program to reverse the order of items in the array.
@@ -24,4 +24,4 @@ arr.reverse()
 print "Reversed array using reverse() method",arr
 ```
 
-![Screenshot from 2021-06-05 21-07-01](https://user-images.githubusercontent.com/79211248/120897347-49e84780-c643-11eb-82f1-0b68982741dd.png)
+[](https://user-images.githubusercontent.com/79211248/120897347-49e84780-c643-11eb-82f1-0b68982741dd.png)
