@@ -21,3 +21,13 @@ arr.reverse()
 print "Reversed array using reverse() method",arr
 ```
 output ![Output](https://user-images.githubusercontent.com/79211248/120897347-49e84780-c643-11eb-82f1-0b68982741dd.png)
+
+## *3. Write a Python program to append a new item to the end of the array.*
+```python
+a= ['mango','orange','apple']
+b= ['pear','grapes','banana']
+a.append(b)
+print a
+```
+Output ![output](https://user-images.githubusercontent.com/79211248/120910863-18ea3000-c6a0-11eb-90f9-fb54346364ff.png)
+
